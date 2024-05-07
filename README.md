@@ -41,5 +41,5 @@
 
 ## Take care
 
-`C++` 学习以 **Book: 《C++ Primer Plus》**为主  
+`C++` 学习以 `Book: 《C++ Primer Plus》` 为主  
 
