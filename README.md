@@ -39,7 +39,9 @@
 - LearnCpp - C++ - En : https://www.learncpp.com/
 - TutorialsPoint - C++ - En : https://www.tutorialspoint.com/cplusplus/index.htm
 
-## Take care
+## Supplement
 
-`C++` 学习以 `Book: 《C++ Primer Plus》` 为主  
+- `C++` 学习以 `Book: 《C++ Primer Plus》` 为主
+
+- 如内容有错误, 请 `PR` 
 
