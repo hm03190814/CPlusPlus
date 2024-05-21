@@ -43,5 +43,7 @@
 
 - `C++` 学习以 `Book: 《C++ Primer Plus》` 为主
 
-- 如内容有错误, 请 `PR` 
+- 如内容有错误, 请 `PR`
+
+- 另附 [Identity_V_PC](Identity_V.md)  
 
